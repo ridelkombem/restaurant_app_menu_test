@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 14 - 2023-09-19 at 21 58 57](https://github.com/ridelkombem/restaurant_app_menu_test/assets/92898115/081d53d8-d656-4fec-8d43-7290e9d1b9db)# restaurant_menu_app_test
+
 
 A new Flutter project.
 
